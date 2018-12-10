@@ -1,2 +1,2 @@
 # adaptiveEMA
-Scripts for adaptive EMA on the backend side
+Scripts for adaptive EMA on the server side
